@@ -5,6 +5,31 @@ El juego es una aventura por turnos basada en escenarios, donde el jugador debe 
 
 A lo largo de la partida, el jugador explorará diferentes biomas, cada uno con escenas, enemigos y recompensas únicas que se generarán de forma aleatoria. Existen varios tipos de escenas, como combates, comercio, obtención de objetos o escenas donde no ocurre nada. El combate se basa en estadísticas de velocidad y daño, y cada personaje cuenta con una habilidad especial que se desbloquea al cumplir ciertas condiciones. La toma de decisiones, la gestión del inventario y la adaptación al entorno son clave para sobrevivir y completar el juego.
 
+# Imágenes del juego
+
+### Vistas de la página
+![alt text](images/screenshots/image_home.png)
+
+![alt text](images/screenshots/image_games_saved.png)
+
+![alt text](images/screenshots/image_characters.png)
+
+![alt text](images/screenshots/image_biomes.png)
+
+![alt text](images/screenshots/image_enemies.png)
+
+![alt text](images/screenshots/image_rare_atribute_items.png)
+
+![alt text](images/screenshots/image_create_new_game.png)
+
+
+### Vistas del juego
+
+![alt text](images/screenshots/image_game1.png)
+
+![alt text](images/screenshots/image_game2.png)
+
+
 
 ## CONFIGURACIÓN BACK-END: C# y mongoDb
 
