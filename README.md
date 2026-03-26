@@ -141,6 +141,11 @@ npm install lucide-react
 
 ## EJECUCIÓN LOCAL
 
+### Base de Datos
+```
+sudo systemctl start mongod
+```
+
 ### Backend
 ```
 cd backend/GameApp.Host
